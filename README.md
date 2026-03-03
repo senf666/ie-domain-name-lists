@@ -6,8 +6,10 @@ A collection of Irish-specific word lists and domain name datasets.
 
 ## .ie domain name list
 
-170k-ie-domainnames.txt	        170,000 registered .ie domain names	
-170k-ie-domainnames.parquet	     same as above but in Parquet format
+| File | Description |
+|------|-------------|
+| 170k-ie-domainnames.txt | 170,000 registered .ie domain names |
+| 170k-ie-domainnames.parquet | Same as above, in Parquet format |
 
 ## .ie Domain Rules
 
