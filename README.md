@@ -25,3 +25,11 @@ A collection of Irish domain name and word-derived `.ie` datasets.
 - CSV files are intentionally mixed: some include headers, some are plain single-column lists.
 - Repository layout: `ie_domain_names.txt` is at root; all other datasets are in `lists/`.
 - Domain labels in `.ie` names generally use letters, digits, and hyphens (subject to registry rules).
+
+## License
+
+This repository is licensed under `CC BY-NC 4.0` (Creative Commons Attribution-NonCommercial 4.0 International).
+
+- Commercial use is not permitted.
+- Attribution is required.
+- See `LICENSE` for details and the full license URL.
